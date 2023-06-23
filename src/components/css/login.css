@@ -1,0 +1,26 @@
+.registerContainer {
+    max-width: 500px;
+    min-width: 350px;
+}
+
+.loginTitle {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.form-text {
+    color: red;
+}
+
+.logo {
+    margin-bottom: 8px;
+    border: 50%;
+    display: block;
+    width: 40px;
+}
+
+.link {
+    color: blue;
+    cursor: pointer;
+    font-size: 16px;
+}
